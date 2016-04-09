@@ -1,0 +1,3 @@
+rootProject.name = 'itunesBrowser'
+
+include ':app'
